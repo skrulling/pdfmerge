@@ -26,7 +26,7 @@ This is a simple Node.js project that merges all PDF files found in a specified 
 
 2. Run the script:
     ```bash
-    node mergePDFs.js
+    node pdfmerger.js
     ```
 3. The merged PDF will be created as `merged.pdf` in the project root directory.
 
